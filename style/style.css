@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+
+section  {
+ padding: 20px;
+    text-align: center;
+}
+
+section a {
+
+    color: white;
+    text-align: center;
+}
